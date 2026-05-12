@@ -159,4 +159,5 @@ while (alive) {
   code();
   repeat();
 }
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" /> </div><p align="center"> ⭐️ از اینکه پروفایل من را مشاهده کردید متشکرم! بیایید با هم چیزهای شگفت‌انگیزی بسازیم. </p> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+</div><p align="center"> ⭐️ از اینکه پروفایل من را مشاهده کردید متشکرم! بیایید با هم چیزهای شگفت‌انگیزی بسازیم. </p> ```
