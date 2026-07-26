@@ -67,21 +67,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=par123456&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=par123456&layout=compact&langs_count=8&theme=radical&border_radius=10" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=par123456&theme=radical&border_radius=10)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=par123456&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 
 </div>
 
@@ -123,16 +109,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🐍 <div dir="rtl">کمک‌های من</div>
-
-<div align="center">
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/par123456/par123456/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
