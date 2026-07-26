@@ -114,6 +114,16 @@
 
 ---
 
+## 🐍 <div dir="rtl">کمک‌های من</div>
+
+<div align="center">
+
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Par123456/Par123456/gh-pages/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
 ## 📫 <div dir="rtl">ارتباط با من</div>
 
 <div align="center">
